@@ -12,7 +12,10 @@
 - I’m currently coding in Javascript and Vue 
   
 
-- I help others , and in love with developing discord bots 
+- I help others for free 
+
+
+- I also know about C/C++ 
   
 
   
