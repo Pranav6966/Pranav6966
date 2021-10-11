@@ -19,15 +19,6 @@
 
 <br/>  
 
-# SUPPORT MY BOT 
-
-You can invite my bot GROOT which is a discord music bot 
-
-## [CLICK HERE TO INVITE THE BOT](https://discord.com/oauth2/authorize?client_id=853583833747161091&scope=bot&permissions=7045906193)
-
-
-
-## [GROOT BOT SUPPORT SERVER](https://discord.gg/eBY9DUYq5a)
 
 
 
